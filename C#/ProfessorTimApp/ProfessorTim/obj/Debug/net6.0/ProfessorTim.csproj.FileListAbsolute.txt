@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\bin\Debug\net6.0\ProfessorTim.exe
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\bin\Debug\net6.0\ProfessorTim.deps.json
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\bin\Debug\net6.0\ProfessorTim.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\bin\Debug\net6.0\ProfessorTim.dll
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\bin\Debug\net6.0\ProfessorTim.pdb
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\obj\Debug\net6.0\ProfessorTim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\obj\Debug\net6.0\ProfessorTim.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\obj\Debug\net6.0\ProfessorTim.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\obj\Debug\net6.0\ProfessorTim.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\obj\Debug\net6.0\ProfessorTim.dll
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\obj\Debug\net6.0\refint\ProfessorTim.dll
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\obj\Debug\net6.0\ProfessorTim.pdb
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\obj\Debug\net6.0\ProfessorTim.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\ProfessorTimApp\ProfessorTim\obj\Debug\net6.0\ref\ProfessorTim.dll

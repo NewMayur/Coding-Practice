@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\bin\Debug\net6.0\UserAge.exe
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\bin\Debug\net6.0\UserAge.deps.json
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\bin\Debug\net6.0\UserAge.runtimeconfig.json
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\bin\Debug\net6.0\UserAge.dll
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\bin\Debug\net6.0\UserAge.pdb
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\obj\Debug\net6.0\UserAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\obj\Debug\net6.0\UserAge.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\obj\Debug\net6.0\UserAge.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\obj\Debug\net6.0\UserAge.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\obj\Debug\net6.0\UserAge.dll
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\obj\Debug\net6.0\refint\UserAge.dll
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\obj\Debug\net6.0\UserAge.pdb
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\obj\Debug\net6.0\UserAge.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\UserAgeApp\UserAge\obj\Debug\net6.0\ref\UserAge.dll

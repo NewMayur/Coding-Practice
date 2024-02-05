@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\obj\Debug\net6.0\Professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\obj\Debug\net6.0\Professor.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\obj\Debug\net6.0\Professor.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\obj\Debug\net6.0\Professor.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\bin\Debug\net6.0\Professor.exe
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\bin\Debug\net6.0\Professor.deps.json
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\bin\Debug\net6.0\Professor.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\bin\Debug\net6.0\Professor.dll
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\bin\Debug\net6.0\Professor.pdb
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\obj\Debug\net6.0\Professor.dll
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\obj\Debug\net6.0\refint\Professor.dll
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\obj\Debug\net6.0\Professor.pdb
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\obj\Debug\net6.0\Professor.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\ProfessorApp\Professor\obj\Debug\net6.0\ref\Professor.dll
